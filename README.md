@@ -1,1 +1,2 @@
-# репозиторій
+#Repository for college
+
