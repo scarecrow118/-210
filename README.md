@@ -1,2 +1,2 @@
-#Repository for college
+# Repository for college
 
