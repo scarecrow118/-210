@@ -1,4 +1,6 @@
-**Звіт до роботи**
+![Звіт до роботи](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg)
+
+**Звіт до Роботи**
 
 **Тема роботи: Оформлення робіт та перша програма**
 
@@ -14,8 +16,8 @@
 
 ![Плагін Jupyter](vscode-jupyter-add.png)
 
-![Плагін Copilot](vscode-copilot.png)
+![Плагін Copilot](vscode-copilot-add.png)
 
 **2.Перша програма на Python** ![Фото першої програми](hello-world1.png)
 
-**2.Завантаження роботи у репозиторій**
+**3.Завантаження роботи у репозиторій**
