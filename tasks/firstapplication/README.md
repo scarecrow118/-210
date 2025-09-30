@@ -20,4 +20,4 @@
 
 **2.Перша програма на Python** ![Фото першої програми](hello-world1.png)
 
-**3.Завантаження роботи у репозиторій**
+**3.Програма на Python Notebook** ![Фото програми Python Notebook](python-notebook-test1.png)
