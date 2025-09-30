@@ -10,7 +10,9 @@
 
 **Виконання роботи**
 
-**1.Встановлення плагінів VS Code** ![Плагін Python](vscode-python-add.png)
+**1.Встановлення плагінів VSCode**![Плагін Python](vscode-python-add.png)
+![Плагін Jupyter](vscode-jupyter-add.png)
+![Плагін Copilot](vscode-copilot.png)
 
 **2.Перша програма на Python** ![Фото першої програми](hello-world1.png)
 
