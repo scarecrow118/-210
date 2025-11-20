@@ -106,3 +106,7 @@ ValueError("Ім'я може містити лише літери!").**
 "User #<id>: <name> (<email>)"**
 
 ![Firstclass-example-answear9](firstclass-answer9.png)
+
+**IX.Реалізуйте метод save_to_file(filename="users.txt"), який додає рядок із записом у файл;**
+
+![Firstclass-example-answear10](firstclass-answer10.png)
