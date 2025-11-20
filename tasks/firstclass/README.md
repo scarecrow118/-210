@@ -89,3 +89,20 @@
 **Різниця виникає через те, як обробляється елемент None у вашому конструкторі __init__, а саме завдяки виклику методу класу anonymous_user():**
 
 **V.Модифікуйте конструктор init, щоб значення self.name завжди починалося з великої літери, навіть якщо користувач ввів маленьку.;**
+
+![firstclass-answer6-part1](firstclass-answer6-part1.png)
+![firstclass-answer6-part2](firstclass-answer6-part2.png)
+
+**VI.Змініть метод create_email так щоб можна було модифікувати значення після @;**
+
+![Firstclass-example-answear7](firstclass-answer7.png)
+
+**VII.Додайте перевірку: якщо ім’я містить цифри або символи, підніміть помилку
+ValueError("Ім'я може містити лише літери!").**
+
+![Firstclass-example-answear8](firstclass-answer8.png)
+
+**VIII.додайте нову властивість full_name, яка повертає результат у форматі:
+"User #<id>: <name> (<email>)"**
+
+![Firstclass-example-answear9](firstclass-answer9.png)
