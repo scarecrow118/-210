@@ -24,3 +24,7 @@
 **1.Вкажіть у звіті що вивела пограма або зробіть скріншот та вставте у звіт;**
 
 ![firstclassexample](firstclass-example.png)
+
+**2.Модифікуйте програму додавши своє імя в список;**
+
+![firstclassclassexample1](firstclass-example1.png)
