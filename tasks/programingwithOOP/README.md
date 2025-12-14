@@ -26,4 +26,16 @@
 
 **2.Порівняння простих даних з обєктами**
 
-![workoop1](work-with-oop-1.png)
+![workoop2](work-with-oop-2.png)
+
+**Перейменувати всі обєкти a1-a3 та вивести їх**
+
+![workoop2dop](work-with-oop-2-dop.png)
+
+**3.Методи класу**
+
+![workoop3](work-with-oop-3.png)
+
+**Застосування методів класу до всіх обєктів a1-a3**
+
+![workoop3dop](work-with-oop-3-dop.png)
