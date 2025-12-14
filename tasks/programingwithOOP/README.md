@@ -58,28 +58,30 @@
 
 **6.Робота з properties**
 
+![workoop6](work-with-oop-6.png)
+
 **Додати ще одну properties та вивести її**
 
-
+![workoop6dop](work-with-oop-6-dop.png)
 
 **7.Методи Класу**
 
-
+![workoop5](work-with-oop-5.png)
 
 **Дописати метод класу який буде превіряти що атрибут name заданий з великої букви**
 
-
+![workoop7dop](work-with-oop-7-dop.png)
 
 **8.Приватні атрибути та методи**
 
-
+![workoop8](work-with-oop-8.png)
 
 **9.Магічні методи**
 
-
+![workoop9](work-with-oop-9.png)
 
 **10.Арифметичні методи**
 
-
+![workoop10](work-with-oop-10.png)
 
 
